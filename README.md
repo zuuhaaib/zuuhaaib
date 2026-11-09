@@ -4,4 +4,4 @@ hey, i’m zuhaib. i study computer science at york and build little things for 
 - [**Somewhere, Somehow**](https://github.com/zuuhaaib/somewhere-somehow) turns your location history into an atlas of the places you keep coming back to. it also shows you why it thinks that café is part of your routine now.
 - [**My portfolio**](https://portfolio-zuuhaaibs-projects.vercel.app/) has my projects, my résumé, and a working turntable. you can decide which of those i spent the most time on.
 
-outside of coding, i watch a lot of movies, keep coming back to *The Glow Pt. 2* and *Deathconciousness* 😅
+outside of coding, i watch a lot of movies and music. i keep coming back to *The Glow Pt. 2* and *Deathconciousness* 😅
